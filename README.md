@@ -6,3 +6,7 @@
 
 <!-- # 統計情報を動的生成 + アイコンの表示 + カウントにprivateリポジトリを含める + リポジトリのOwnerを表示 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=riron1206&show_icons=truecount_private=true&show_owner=true)
+
+<!-- # Top Languages Card -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riron1206)]
+
