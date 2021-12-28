@@ -17,7 +17,7 @@
 <br>
 <br>
 <br>
-
+<!-- # kaggleのバッジを表示 -->
 <p align="center">
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/anonamename/competition/light" />
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/anonamename/dataset/light" />
