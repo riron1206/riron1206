@@ -15,6 +15,8 @@
 </a>
 
 <br>
+<br>
+<br>
 
 <p align="center">
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/anonamename/competition/light" />
