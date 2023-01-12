@@ -11,7 +11,7 @@
 </a>
 <!-- # Top Languages Card -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riron1206" />
+  <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=riron1206" />
 </a>
 
 <br>
