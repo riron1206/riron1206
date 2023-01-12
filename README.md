@@ -7,7 +7,7 @@
 <!-- # aタグ使ってカード横に並べる -->
 <!-- # 統計情報を動的生成 + アイコンの表示 + カウントにprivateリポジトリを含める + リポジトリのOwnerを表示 -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=riron1206&show_icons=truecount_private=true&show_owner=true" />
+  <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=riron1206&show_icons=truecount_private=true&show_owner=true" />
 </a>
 <!-- # Top Languages Card -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
