@@ -27,7 +27,8 @@
 </p>
 -->
 <!-- # kaggleのバッジを表示。最初動かすときだけgithub actionの手動更新が必要だった。以後はpushしたら自動で走ってそう？ -->
-<!-- https://github.com/spider-man-tm/kaggle-badges/blob/main/docs/README.ja-jp.md  -->
+<!-- https://github.com/riron1206/riron1206/actions/workflows/kaggle-badges.yml で github action のログ確認できる -->
+<!-- 元コードは https://github.com/spider-man-tm/kaggle-badges/blob/main/docs/README.ja-jp.md  -->
 <div>
   <a href="https://www.kaggle.com/spidermandance">
     <img src="./kaggle-badges/CompetitionsRank/plastic-black.svg" alt="KaggleCompetitionRank" />
