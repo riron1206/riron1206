@@ -26,8 +26,25 @@
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/anonamename/discussion/light" />
 </p>
 -->
-<!-- # kaggleのバッジを表示 -->
-<p align="center">
-  <img src="./kaggle-badges/CompetitionsRank/plastic-black.svg" />
-  <img src="./kaggle-plates/Competitions/white.svg" />
-</p>
+<!-- # kaggleのバッジを表示。github actionの手動更新が必要 -->
+<!-- https://github.com/spider-man-tm/kaggle-badges/blob/main/docs/README.ja-jp.md  -->
+<div>
+  <a href="https://www.kaggle.com/spidermandance">
+    <img src="./kaggle-badges/CompetitionsRank/plastic-black.svg" alt="KaggleCompetitionRank" />
+  </a>
+</div>
+
+<div>
+  <a href="https://www.kaggle.com/spidermandance">
+    <img src="./kaggle-plates/Competitions/white.svg" alt="KaggleCompetitionRank" />
+  </a>
+  <a href="https://www.kaggle.com/spidermandance">
+    <img src="./kaggle-plates/Datasets/white.svg" alt="KaggleDatasetsRank" />
+  </a>
+  <a href="https://www.kaggle.com/spidermandance">
+    <img src="./kaggle-plates/Notebooks/white.svg" alt="KaggleNotebooksRank" />
+  </a>
+  <a href="https://www.kaggle.com/spidermandance">
+    <img src="./kaggle-plates/Discussions/white.svg" alt="KaggleDiscussionsRank" />
+  </a>
+</div>
