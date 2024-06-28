@@ -30,22 +30,22 @@
 <!-- https://github.com/riron1206/riron1206/actions/workflows/kaggle-badges.yml で github action のログ確認できる -->
 <!-- 元コードは https://github.com/spider-man-tm/kaggle-badges/blob/main/docs/README.ja-jp.md  -->
 <div>
-  <a href="https://www.kaggle.com/spidermandance">
+  <a href="https://www.kaggle.com/anonamename">
     <img src="./kaggle-badges/CompetitionsRank/plastic-black.svg" alt="KaggleCompetitionRank" />
   </a>
 </div>
 
 <div>
-  <a href="https://www.kaggle.com/spidermandance">
+  <a href="https://www.kaggle.com/anonamename">
     <img src="./kaggle-plates/Competitions/white.svg" alt="KaggleCompetitionRank" />
   </a>
-  <a href="https://www.kaggle.com/spidermandance">
+  <a href="https://www.kaggle.com/anonamename">
     <img src="./kaggle-plates/Datasets/white.svg" alt="KaggleDatasetsRank" />
   </a>
-  <a href="https://www.kaggle.com/spidermandance">
+  <a href="https://www.kaggle.com/anonamename">
     <img src="./kaggle-plates/Notebooks/white.svg" alt="KaggleNotebooksRank" />
   </a>
-  <a href="https://www.kaggle.com/spidermandance">
+  <a href="https://www.kaggle.com/anonamename">
     <img src="./kaggle-plates/Discussions/white.svg" alt="KaggleDiscussionsRank" />
   </a>
 </div>
