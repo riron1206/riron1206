@@ -1,4 +1,4 @@
-<!-- 
+<!--
 # GitHub Readme Stats を利用してGitHubプロフィールをカッコよくする
 # https://qiita.com/zizi4n5/items/f8076cb25bbf64a9bc1c
 # GitHub Readme Stats: https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_ja.md
@@ -17,10 +17,17 @@
 <br>
 <br>
 <br>
-<!-- # kaggleのバッジを表示 -->
+<!--
+# kaggleのバッジを表示。こっちはメンテされないからやめる
 <p align="center">
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/anonamename/competition/light" />
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/anonamename/dataset/light" />
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/anonamename/notebook/light" />
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/anonamename/discussion/light" />
+</p>
+-->
+<!-- # kaggleのバッジを表示 -->
+<p align="center">
+  <img src="./kaggle-badges/CompetitionsRank/plastic-black.svg" />
+  <img src="./kaggle-plates/Competitions/white.svg" />
 </p>
