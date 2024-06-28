@@ -26,7 +26,7 @@
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/anonamename/discussion/light" />
 </p>
 -->
-<!-- # kaggleのバッジを表示。github actionの手動更新が必要 -->
+<!-- # kaggleのバッジを表示。最初動かすときだけgithub actionの手動更新が必要だった。以後はpushしたら自動で走ってそう？ -->
 <!-- https://github.com/spider-man-tm/kaggle-badges/blob/main/docs/README.ja-jp.md  -->
 <div>
   <a href="https://www.kaggle.com/spidermandance">
