@@ -1,7 +1,11 @@
 # Kaggle ランクに基づいてバッジを自動生成するgithub action
 # https://github.com/spider-man-tm/kaggle-badges/blob/main/docs/README.ja-jp.md
+
 # github actionの設定ONにしないとこのファイルgit pushできなかった。以下のサイトのやり方で解決
 # https://qiita.com/atsutama/items/10353f122fcb9f58c1d9
+
+# git pushご手動でgithub action動かす必要あった
+# GitHubリポジトリの「Actions」タブに移動し、「Kaggle Badges」ワークフローを選択し、「Run workflow」ボタンをクリックして手動でワークフローを実行必要だった
 
 name: Kaggle Badges
 
