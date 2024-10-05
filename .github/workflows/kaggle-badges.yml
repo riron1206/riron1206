@@ -10,10 +10,13 @@
 name: Kaggle Badges
 
 on:
+  push:
+    branches:
+      - main  # プッシュトリガー：main ブランチへのプッシュ時にも実行されます。
   schedule:
     # You can change the cron expression to suit your needs
     - cron: "11 11 1 * *" # 11:11 AM on the 1st of every month
-  workflow_dispatch:
+  workflow_dispatch:  # 手動トリガー。GitHubリポジトリの「Actions」タブから手動で実行できます。
 
 jobs:
   build:
