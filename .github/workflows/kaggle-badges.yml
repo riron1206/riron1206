@@ -32,7 +32,7 @@ jobs:
           node-version: "20"
 
       - name: Install Puppeteer browser
-        run: npx puppeteer browsers install chrome  # 最新のChromeをインストールする
+        run: npx puppeteer browsers install chrome@127.0.6533.88  # バージョン指定してChromeをインストール
 
       - name: Use Kaggle Badges Action
         uses: spider-man-tm/kaggle-badges@v1.2.3
