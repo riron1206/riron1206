@@ -39,6 +39,8 @@
   <a href="https://www.kaggle.com/anonamename">
     <img src="./kaggle-plates/Competitions/white.svg" alt="KaggleCompetitionRank" />
   </a>
+</div>
+<!--
   <a href="https://www.kaggle.com/anonamename">
     <img src="./kaggle-plates/Datasets/white.svg" alt="KaggleDatasetsRank" />
   </a>
@@ -48,4 +50,4 @@
   <a href="https://www.kaggle.com/anonamename">
     <img src="./kaggle-plates/Discussions/white.svg" alt="KaggleDiscussionsRank" />
   </a>
-</div>
+-->
