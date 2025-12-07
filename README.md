@@ -26,7 +26,7 @@
 https://githubcard.com/ を利用してGitHubプロフィールをカッコよくする
 -->
 
-![GitHub Card](https://githubcard.com/riron1206.svg)
+[![GitHub Card](https://githubcard.com/riron1206.svg)](https://githubcard.com/riron1206.svg?d=reDPPQig)
 
 <!-- # kaggleのバッジを表示。最初動かすときだけgithub actionの手動更新が必要だった。以後はpushしたら自動で走ってそう？ -->
 <!-- https://github.com/riron1206/riron1206/actions/workflows/kaggle-badges.yml で github action のログ確認できる -->
