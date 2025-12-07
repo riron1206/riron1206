@@ -4,8 +4,10 @@
 # GitHub Readme Stats: https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_ja.md
 -->
 
-<!-- # 統計情報を動的生成 -->
+<!-- # 統計情報を動的生成: 使えなくなった -->
+<!--
 [![riron1206's GitHub stats](https://github-readme-stats.vercel.app/api?username=riron1206)](https://github.com/riron1206/github-readme-stats)
+-->
 
 <!-- # 統計情報を動的生成 + アイコンの表示 + カウントにprivateリポジトリを含める + リポジトリのOwnerを表示: 使えなくなった(https://github.com/anuraghazra/github-readme-stats/issues/3851) -->
 <!--
@@ -19,6 +21,12 @@
   <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=riron1206" />
 </a>
 -->
+
+<!--
+https://githubcard.com/ を利用してGitHubプロフィールをカッコよくする
+-->
+
+![GitHub Card](https://githubcard.com/riron1206.svg)
 
 <!-- # kaggleのバッジを表示。最初動かすときだけgithub actionの手動更新が必要だった。以後はpushしたら自動で走ってそう？ -->
 <!-- https://github.com/riron1206/riron1206/actions/workflows/kaggle-badges.yml で github action のログ確認できる -->
